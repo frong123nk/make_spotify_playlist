@@ -11,7 +11,8 @@ REACT_APP_RE_URI = YOUR_RE_URI
 
 #### Implicit Grant Flow
 ```
-using the Implicit Grant Flow to setup a user’s account and make requests. The implicit grant flow returns a user’s access token in the URL.
+using the Implicit Grant Flow to setup a user’s account and make requests. 
+The implicit grant flow returns a user’s access token in the URL.
 https://developer.spotify.com/documentation/general/guides/authorization/implicit-grant/****
 ```
 
